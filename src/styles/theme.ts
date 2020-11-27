@@ -9,6 +9,11 @@ const theme = {
     buttonText: "#FFFFFF",
     inputBackground: "#444D56",
     ligth: "#959595",
+  },
+
+  fonts: {
+    medium: 500,
+    regular: 400
   }
 }
 
